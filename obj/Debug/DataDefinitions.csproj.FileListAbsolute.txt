@@ -1,0 +1,33 @@
+D:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.exe.config
+D:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.exe
+D:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.pdb
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.AssemblyReference.cache
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.SuggestedBindingRedirects.cache
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.Properties.Resources.resources
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.GenerateResource.cache
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.CoreCompileInputs.cache
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.exe
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.pdb
+E:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.exe.config
+E:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.exe
+E:\C Sharp 2\DataDefinitions\bin\Debug\DataDefinitions.pdb
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.AssemblyReference.cache
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.FormDataDefinitions.resources
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.Properties.Resources.resources
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.GenerateResource.cache
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.csproj.CoreCompileInputs.cache
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.exe
+E:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.pdb
+C:\Users\chris\source\repos\DataDefinitions\bin\Debug\DataDefinitions.exe.config
+C:\Users\chris\source\repos\DataDefinitions\bin\Debug\DataDefinitions.exe
+C:\Users\chris\source\repos\DataDefinitions\bin\Debug\DataDefinitions.pdb
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.FormDataDefinitions.resources
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.Properties.Resources.resources
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.exe
+C:\Users\chris\source\repos\DataDefinitions\obj\Debug\DataDefinitions.pdb
+D:\C Sharp 2\DataDefinitions\obj\Debug\DataDefinitions.FormDataDefinitions.resources
